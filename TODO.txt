@@ -1,0 +1,19 @@
+Console
+	5% help
+	5% fmount
+	5% fumount
+	10% structure (FD structure)
+	10% traverse [-l] (traverse root directory)
+	10% showsector [sector number] (hex dump sector)
+	15% showfat (hex dump FAT)
+	15% output redirection (to file)
+	5% quit
+10% Makefile
+10% README
+
+Console
+	help, fmount, fumount, quit, redirection (5+5+5+5+15 = 35%)
+Hex dumps
+	showsector, showfat, README (10+15+10 = 35%)
+Directory
+	structure, traverse, Makefile (10+10+10 = 30%)
