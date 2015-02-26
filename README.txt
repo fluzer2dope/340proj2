@@ -1,8 +1,8 @@
 CIS 340/540 Project 2: FAT12 filesystem console
 Group F
-	Daosavanh, Jameson J.DAOSAVANH@vikes.csuohio.edu
-	Markoff, Aaron a.markoff@vikes.csuohio.edu
-	Tabor, Mathias M.TABOR@vikes.csuohio.edu
+	Daosavanh, Jameson
+	Markoff, Aaron
+	Tabor, Mathias
 
 ---< Project Description: >---
 The included files, once compiled with 'make', will start a console to allow accessing a floppy disk (or image).
